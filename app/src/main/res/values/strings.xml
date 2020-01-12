@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="Hello">I want to study oidroid from now!</string>
+    <string name="ThirdPageBackground">Welcome to the third page!\n
+    欢迎来到第三页！</string>
+
+    //Button Model
+    <string name="button_1">下一页</string>
+    <string name="button_2">百度一下</string>
+    <string name="button_3">通话</string>
+
+    //Menu "main" Model
+    <string name="menu_item1">Add</string>
+    <string name="menu_item2">Remove</string>
+    <string name="menu_item3">Baidu</string>
+    <string name="menu_item4">Google</string>
+    <string name="menu_browser">My Browser</string>
+
+    //Menu "second" Model
+    <string name="standard">standard</string>
+    <string name="singletop">singfTop</string>
+    <string name="singletask">singleTask</string>
+    <string name="singleinstance">singleInstance</string>
+
+    //Third Medel
+    <string name="buttonf">Back</string>
+</resources>

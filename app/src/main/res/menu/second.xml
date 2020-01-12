@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/standard_item"
+        android:title="@string/standard"/>
+
+    <item
+        android:id="@+id/singletop"
+        android:title="@string/singletop"/>
+
+    <item
+        android:id="@+id/singletask"
+        android:title="@string/singletask"/>
+
+    <item
+        android:id="@+id/singleinstance"
+        android:title="@string/singleinstance"/>
+</menu>
